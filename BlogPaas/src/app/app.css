@@ -1,0 +1,27 @@
+header {
+  background-color: #1976d2;
+  color: white;
+  padding: 1rem;
+  border-bottom: 4px solid #1565c0;
+  text-align: center;
+}
+
+nav {
+  margin-top: 0.5rem;
+}
+
+nav a {
+  margin: 0 1rem;
+  color: #bbdefb;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
+main {
+  padding: 1rem;
+}

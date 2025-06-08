@@ -1,0 +1,7 @@
+<p>edytowanie wpisu</p>
+<form #f="ngForm" (ngSubmit)="zapiszZmiany()">
+  <input name="nazwa" [(ngModel)]="zmiany.tytul" required />
+  <textarea name="opis" [(ngModel)]="zmiany.opis"></textarea>
+  <textarea name="zawartosc" [(ngModel)]="zmiany.zawartosc"></textarea>
+  <button (click)="zapiszZmiany()">zapisz</button>
+</form>

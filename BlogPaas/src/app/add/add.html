@@ -1,16 +1,8 @@
-<h2>Wyswietl wpisy</h2>
-<button (click)="dodajNowy()">Dodaj wpis</button>
-<div>
-    <div *ngFor="let item of blogi" >
-        <h3>{{ item.nazwa }}</h3>
-        {{item.opis}}
-        <br><button (click)="przejdzDoSzczegolow(item.id)">czytaj</button>
-    </div>
-</div>
-<!-- <div class="form">
+<p>Dodawanie wpisu</p>
+<div class="form">
   <form (ngSubmit)="utworzBlog()">
   <input type="text" [(ngModel)]="dane.nazwa" name="nazwa" placeholder="Nazwa" required /><br>
   <input type="text" [(ngModel)]="dane.opis" name="opis" placeholder="Opis" required /><br>
   <textarea [(ngModel)]="dane.zawartosc" name="zawartosc" placeholder="Treść" required></textarea>
   <button type="submit">Utwórz</button>
-</form> -->
+</form>
