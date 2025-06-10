@@ -2,28 +2,28 @@ aplikacja blog, czesc serwerowa dodana jest do osobnego repozytorium<br>
 <a href="https://github.com/Marcindz2/serverBlog">repozytorium serwera</a><br>
 
 <a href="https://blogpaas.onrender.com/">strona glowna</a><br>
-![stronaglowna](./ss/ss1.png)
+![stronaglowna](./ss/ss1.png)<br>
 
-wyswietlone wpisy
-![wpisy](./ss/ss2.png)
+wyswietlone wpisy<br>
+![wpisy](./ss/ss2.png)<br>
 
-dodawanie
-![dodawanie](./ss/ss3.png)
+dodawanie<br>
+![dodawanie](./ss/ss3.png)<br>
 
-wyswietlenie
-![wyswietlenie](./ss/ss4.png)
+wyswietlenie<br>
+![wyswietlenie](./ss/ss4.png)<br>
 
-edycja
-![wyswietlenie](./ss/ss5.png)
+edycja<br>
+![wyswietlenie](./ss/ss5.png)<br>
 
-po zmianie
-![zmiana](./ss/ex6.png)
+po zmianie<br>
+![zmiana](./ss/ex6.png)<br>
 
-render
-![render](./ss/ss7.png)
+render<br>
+![render](./ss/ss7.png)<br>
 
-serwer
-![serwer](./ss/ss8.png)
+serwer<br>
+![serwer](./ss/ss8.png)<br>
 
-blog 
-![blog](./ss/ss9.png)
+blog <br>
+![blog](./ss/ss9.png)<br>
