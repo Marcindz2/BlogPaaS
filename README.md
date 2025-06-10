@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c98bd573-e01c-4e78-9e10-ca41783ece4a)aplikacja blog, czesc serwerowa dodana jest do osobnego repozytorium<br>
+aplikacja blog, czesc serwerowa dodana jest do osobnego repozytorium<br>
 <a href="https://github.com/Marcindz2/serverBlog">repozytorium serwera</a><br>
 
 <a href="https://blogpaas.onrender.com/">strona glowna</a><br>
